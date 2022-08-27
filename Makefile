@@ -118,7 +118,7 @@ ifeq ($(PLATFORM_OS),BSD)
     LDLIBS += -lX11 -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor
 endif
 
-EXE_NAME = roguelite
+EXE_NAME = basic_raylib
 
 # Source files
 SRCS = src/main.c
