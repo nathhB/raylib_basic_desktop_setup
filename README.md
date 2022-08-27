@@ -1,7 +1,7 @@
 # raylib_basic_desktop_setup
 Un setup de base pour compiler des applications raylib desktop (fonctionne avec Windows, OSX et Linux).
 
-Ouvrez votre shell préféré et suivez ces instructions:
+Ouvrez votre shell préféré et suivez ces instructions (si vous utilisez Windows, je vous recommande d'utiliser git bash):
 
 1. Clonez le repo
 
@@ -14,6 +14,8 @@ Rendez-vous à la racine du repo fraichement cloné et tapez les commandes suiva
 `git submodule init`
 
 `git submodule update`
+
+La deuxième commande risque de prendre du temps, c'est normal.
 
 3. Compilez raylib
 
